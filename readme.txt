@@ -6,5 +6,6 @@ ZY
 Git is a desire version control tool in the world. 
 Git is free software distributed under the GPL.
 Git has a mutable index called stage.
+Git tracks changes.
 
 ZY
