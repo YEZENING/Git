@@ -4,6 +4,6 @@ This is only a test.
 ZY
 
 Git is a desire version control tool in the world. 
-Git is a free software.
+Git is a free software free software distributed under the GPL.
 
 ZY
