@@ -4,6 +4,7 @@ This is only a test.
 ZY
 
 Git is a desire version control tool in the world. 
-Git is a free software free software distributed under the GPL.
+Git is free software distributed under the GPL.
+Git has a mutable index called stage.
 
 ZY
